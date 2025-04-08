@@ -1,21 +1,20 @@
 <h1 align="center"><b>Hi , I'm David Salinas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Toluca, apasionado por el desarrollo de software y la ciberseguridad, con un enfoque especial en pentesting. Me encanta resolver problemas, construir soluciones tecnológicas y aprender continuamente en un campo tan dinámico como la tecnología.
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br>
+<b>
+I’m a Computer Systems Engineering student with a love for creating impactful tech solutions and diving deep into the world of cybersecurity. I enjoy solving problems, learning new technologies, and contributing to projects that make a difference.
+</b>
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :technologist: I’m passionate about creating impactful `Software` projects.  
+- :lock: I enjoy exploring the world of `Cybersecurity` and its challenges.
+- :nerd_face: Always `experimenting` with new tech ideas and tools.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🎮 In my free time, I enjoy gaming and working on personal tech projects.
 <br>
 
 ## My Skills Include
@@ -45,7 +44,9 @@ Soy estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnol
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white">
 
 
 </span>
@@ -70,4 +71,8 @@ Comming soon...
 <br><br><br><br><br><br><br><br><br><br>
 
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos de código abierto o a charlar sobre ciberseguridad y tecnología. 😊
+## 🌐 Let’s Connect!
+
+- 📧 Email: [gustavosr450@gmail.com](mailto:gustavosr450@gmail.com)  
+- 🔗 LinkedIn: Comming soon...
+- 🌟 I’m open to collaborating on open-source projects or discussing cybersecurity and tech—feel free to reach out! 😊
